@@ -2,6 +2,7 @@ import { useNavigate } from "react-router-dom";
 
 function ViewProductPage() {
   const navigate = useNavigate();
+
   return (
     <div>
       <h1>View Product Page</h1>
